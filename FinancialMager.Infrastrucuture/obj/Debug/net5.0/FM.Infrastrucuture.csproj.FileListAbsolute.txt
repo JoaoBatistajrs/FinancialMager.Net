@@ -1,0 +1,15 @@
+C:\Users\joao.santos\source\repos\FinancialManager\FinancialMager.Infrastrucuture\bin\Debug\net5.0\FM.Infrastrucuture.deps.json
+C:\Users\joao.santos\source\repos\FinancialManager\FinancialMager.Infrastrucuture\bin\Debug\net5.0\FM.Infrastrucuture.dll
+C:\Users\joao.santos\source\repos\FinancialManager\FinancialMager.Infrastrucuture\bin\Debug\net5.0\ref\FM.Infrastrucuture.dll
+C:\Users\joao.santos\source\repos\FinancialManager\FinancialMager.Infrastrucuture\bin\Debug\net5.0\FM.Infrastrucuture.pdb
+C:\Users\joao.santos\source\repos\FinancialManager\FinancialMager.Infrastrucuture\bin\Debug\net5.0\FM.Domain.dll
+C:\Users\joao.santos\source\repos\FinancialManager\FinancialMager.Infrastrucuture\bin\Debug\net5.0\FM.Domain.pdb
+C:\Users\joao.santos\source\repos\FinancialManager\FinancialMager.Infrastrucuture\obj\Debug\net5.0\FM.Infrastrucuture.csproj.AssemblyReference.cache
+C:\Users\joao.santos\source\repos\FinancialManager\FinancialMager.Infrastrucuture\obj\Debug\net5.0\FM.Infrastrucuture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.santos\source\repos\FinancialManager\FinancialMager.Infrastrucuture\obj\Debug\net5.0\FM.Infrastrucuture.AssemblyInfoInputs.cache
+C:\Users\joao.santos\source\repos\FinancialManager\FinancialMager.Infrastrucuture\obj\Debug\net5.0\FM.Infrastrucuture.AssemblyInfo.cs
+C:\Users\joao.santos\source\repos\FinancialManager\FinancialMager.Infrastrucuture\obj\Debug\net5.0\FM.Infrastrucuture.csproj.CoreCompileInputs.cache
+C:\Users\joao.santos\source\repos\FinancialManager\FinancialMager.Infrastrucuture\obj\Debug\net5.0\FM.Infrastrucuture.csproj.CopyComplete
+C:\Users\joao.santos\source\repos\FinancialManager\FinancialMager.Infrastrucuture\obj\Debug\net5.0\FM.Infrastrucuture.dll
+C:\Users\joao.santos\source\repos\FinancialManager\FinancialMager.Infrastrucuture\obj\Debug\net5.0\ref\FM.Infrastrucuture.dll
+C:\Users\joao.santos\source\repos\FinancialManager\FinancialMager.Infrastrucuture\obj\Debug\net5.0\FM.Infrastrucuture.pdb

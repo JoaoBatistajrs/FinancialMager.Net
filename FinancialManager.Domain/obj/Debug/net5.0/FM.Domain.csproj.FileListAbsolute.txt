@@ -1,0 +1,12 @@
+C:\Users\joao.santos\source\repos\FinancialManager\FinancialManager.Domain\bin\Debug\net5.0\FM.Domain.deps.json
+C:\Users\joao.santos\source\repos\FinancialManager\FinancialManager.Domain\bin\Debug\net5.0\FM.Domain.dll
+C:\Users\joao.santos\source\repos\FinancialManager\FinancialManager.Domain\bin\Debug\net5.0\ref\FM.Domain.dll
+C:\Users\joao.santos\source\repos\FinancialManager\FinancialManager.Domain\bin\Debug\net5.0\FM.Domain.pdb
+C:\Users\joao.santos\source\repos\FinancialManager\FinancialManager.Domain\obj\Debug\net5.0\FM.Domain.csproj.AssemblyReference.cache
+C:\Users\joao.santos\source\repos\FinancialManager\FinancialManager.Domain\obj\Debug\net5.0\FM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.santos\source\repos\FinancialManager\FinancialManager.Domain\obj\Debug\net5.0\FM.Domain.AssemblyInfoInputs.cache
+C:\Users\joao.santos\source\repos\FinancialManager\FinancialManager.Domain\obj\Debug\net5.0\FM.Domain.AssemblyInfo.cs
+C:\Users\joao.santos\source\repos\FinancialManager\FinancialManager.Domain\obj\Debug\net5.0\FM.Domain.csproj.CoreCompileInputs.cache
+C:\Users\joao.santos\source\repos\FinancialManager\FinancialManager.Domain\obj\Debug\net5.0\FM.Domain.dll
+C:\Users\joao.santos\source\repos\FinancialManager\FinancialManager.Domain\obj\Debug\net5.0\ref\FM.Domain.dll
+C:\Users\joao.santos\source\repos\FinancialManager\FinancialManager.Domain\obj\Debug\net5.0\FM.Domain.pdb

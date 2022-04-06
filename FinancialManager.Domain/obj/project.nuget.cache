@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GfX2WIgzZ5crNCIQJySUbKLdLF0Rr78KXISKz59/pNEKtOdbsZIUVCUD/eipCcKKcDPF/4k3oEWO2FjX03BQ/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\FinancialManager\\FinancialManager.Domain\\FM.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joao.santos\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\joao.santos\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
