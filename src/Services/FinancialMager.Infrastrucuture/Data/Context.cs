@@ -1,7 +1,6 @@
 ﻿using FM.Domain.AggregatesModel.FinanceManagerAggregates;
 using FM.Infrastrucuture.EntityConfigurations;
 using MediatR;
-using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace FM.Infrastrucuture.Data
